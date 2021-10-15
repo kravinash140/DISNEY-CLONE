@@ -1,10 +1,10 @@
 # Content ------- DISNEY CLONE SITE
 
 ## Front-end tools used--
-CSS
-Bootstrap
-React js
-Redux
+CSS <br/>
+Bootstrap <br/>
+React js <br/>
+Redux <br/>
 
 ## firebase as back-end
 
