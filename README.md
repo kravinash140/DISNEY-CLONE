@@ -1,4 +1,5 @@
 # Content ------- DISNEY CLONE SITE
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Front-end tools used--
 CSS <br/>
@@ -9,8 +10,6 @@ Redux <br/>
 ## firebase as back-end
 
 ## node.js as server
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
